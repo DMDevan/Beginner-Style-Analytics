@@ -1,5 +1,6 @@
 """---------------------------------------------------------
 1. IMPORT LIBRARIES
+  - Remember to install pandas and numpy first in the terminal! 
 ---------------------------------------------------------"""
 # pandas is the main library for working with CSV/Excel data
 import pandas as pd
