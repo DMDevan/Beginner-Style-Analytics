@@ -8,8 +8,7 @@ import pandas as pd
 """---------------------------------------------------------
 2. LOAD THE DATA
 ---------------------------------------------------------"""
-# Our CSV uses semicolons instead of commas, so we specify sep=";"
-df = pd.read_csv("Cars.csv", sep=";")
+df = pd.read_csv("Cars.csv")
 
 """---------------------------------------------------------
 3. VIEWING THE DATA
